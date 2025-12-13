@@ -23,7 +23,7 @@
     "@vue/test-utils": "^2.4.6",
     "nuxt": "^3.17.6",
     "typescript": "^5.8.3",
-    "vitest": "^3.2.4",
+    "vitest": "^4.0.13",
     "vue-tsc": "^2.2.12"
   }
 }
